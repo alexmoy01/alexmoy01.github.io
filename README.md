@@ -64,7 +64,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 - 📧 Email: alexmoy23@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/alex-moy01)
-- 🐙 [GitHub](https://github.com/alexmoy)  
+- 🐙 [GitHub](https://github.com/alexmoy01)  
 - 📄 [Resume (PDF)](resume.pdf)  
 
 ---
