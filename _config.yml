@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Alex Moy
 theme: jekyll-theme-minimal
-
+logo: /images/headshot.png
