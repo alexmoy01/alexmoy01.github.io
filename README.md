@@ -18,6 +18,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ### [1. Taiwan Research Project: PCB Test Platform](projects/taiwan.md)
 ![Temp Photo](images/tempphoto.jpg)
+
 **Goal**: Design a PCB test platform for ADC, DAC, clock generator, and temperature sensor validation.  
 **Tech Stack**: Altium, C (Embedded), SPI/I²C, LPCXpresso51U68 MCU  
 - Designed and assembled a 2-layer PCB integrating ADC, DAC, clock generator, and temp sensor  
@@ -28,6 +29,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ### [2. Junior Design Project: Autonomous Bot](projects/junior-design.md)
 ![Temp Photo](images/tempphoto.jpg)
+
 **Goal**: Build an Arduino-based autonomous lane-following robot.  
 **Tech Stack**: Arduino, Circuit Design, Onshape, L293D H-Bridge  
 - Integrated color sensing, obstacle detection, and battery monitoring circuits  
@@ -38,6 +40,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ### [3. Pulse Oximeter](projects/pulse-ox.md)
 ![Temp Photo](images/tempphoto.jpg)
+
 **Goal**: Develop a device to measure blood oxygen and heart rate.  
 **Tech Stack**: Python, Circuit Design  
 - Designed bandpass filtering and amplification circuits for IR LED signals  
@@ -47,6 +50,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ### [4. Snake Game (FPGA)](projects/snake.md)
 ![Temp Photo](images/tempphoto.jpg)
+
 **Goal**: Implement a classic Snake game on FPGA hardware.  
 **Tech Stack**: VHDL, FPGA, VGA, NES Controller  
 - Developed game logic, state management, and ROM-based start screen display  
@@ -56,6 +60,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ### [5. Tic Tac Toe](projects/tictactoe.md)
 ![Temp Photo](images/tempphoto.jpg)
+
 **Goal**: Create a joystick-controlled Tic Tac Toe game with audio.  
 **Tech Stack**: C++, DAC, Joystick Input  
 - Implemented full game logic and visual interface  
