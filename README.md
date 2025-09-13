@@ -1,4 +1,4 @@
-# Alex Moy – Electrical Engineering Portfolio
+# Electrical Engineering Portfolio
 
 Hi there! I'm **Alex Moy**, an Electrical Engineering student at Tufts University (Class of 2026).  
 I’m passionate about **embedded systems, PCB design, circuit debugging, and signal processing**.  
