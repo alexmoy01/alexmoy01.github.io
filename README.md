@@ -6,7 +6,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ---
 
-## ⚡ Skills & Technologies
+## Skills & Technologies
 
 - **Languages**: C, C++, Python, VHDL, Verilog, ARM Assembly, Java, MATLAB, HTML  
 - **Hardware & EE**: PCB Design (Altium, soldering/reflow), Circuit Debugging, Signal Processing, Embedded Systems (ARM Cortex-M, Arduino, FPGA)  
@@ -14,29 +14,27 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ---
 
-## 📁 Projects
+## Projects
 
-### 1. 🔬 Taiwan Research Project: PCB Test Platform
+### 1. Taiwan Research Project: PCB Test Platform
 **Goal**: Design a PCB test platform for ADC, DAC, clock generator, and temperature sensor validation.  
 **Tech Stack**: Altium, C (Embedded), SPI/I²C, LPCXpresso51U68 MCU  
 - Designed and assembled a 2-layer PCB integrating ADC, DAC, clock generator, and temp sensor  
 - Programmed MCU drivers for SPI/I²C communication and debugged soldering/trace issues  
 - Practiced full workflow: schematic capture, PCB layout, soldering, and embedded coding  
-[🔗 View Repo](https://github.com/alexmoy) *(placeholder link)*
 
 ---
 
-### 2. 🤖 Junior Design Project: Autonomous Bot
+### 2. Junior Design Project: Autonomous Bot
 **Goal**: Build an Arduino-based autonomous lane-following robot.  
 **Tech Stack**: Arduino, Circuit Design, Onshape, L293D H-Bridge  
 - Integrated color sensing, obstacle detection, and battery monitoring circuits  
 - Designed chassis in Onshape, laser-cut in acrylic, with optimized wire routing  
 - Improved reliability with LED battery indicators and server-based remote control  
-[🔗 View Repo](https://github.com/alexmoy/grape_expectations)
 
 ---
 
-### 3. ❤️ Pulse Oximeter
+### 3. Pulse Oximeter
 **Goal**: Develop a device to measure blood oxygen and heart rate.  
 **Tech Stack**: Python, Circuit Design  
 - Designed bandpass filtering and amplification circuits for IR LED signals  
@@ -44,7 +42,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ---
 
-### 4. 🐍 Snake Game (FPGA)
+### 4. Snake Game (FPGA)
 **Goal**: Implement a classic Snake game on FPGA hardware.  
 **Tech Stack**: VHDL, FPGA, VGA, NES Controller  
 - Developed game logic, state management, and ROM-based start screen display  
@@ -52,7 +50,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ---
 
-### 5. 🎮 Tic Tac Toe
+### 5. Tic Tac Toe
 **Goal**: Create a joystick-controlled Tic Tac Toe game with audio.  
 **Tech Stack**: C++, DAC, Joystick Input  
 - Implemented full game logic and visual interface  
@@ -60,13 +58,3 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 
 ---
 
-## 📬 Let’s Connect!
-
-- 📧 Email: alexmoy23@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/alex-moy01)
-- 🐙 [GitHub](https://github.com/alexmoy01)  
-- 📄 [Resume (PDF)](resume.pdf)  
-
----
-
-> “Engineering is about building solutions that actually work in the real world.”
