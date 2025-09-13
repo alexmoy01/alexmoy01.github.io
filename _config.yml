@@ -1,6 +1,15 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Alex Moy
-theme: jekyll-theme-minimal
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+# - jekyll-remote-theme
+# title: Alex Moy
+# theme: jekyll-theme-minimal
 
+title: "Alex Moy – Electrical Engineering Portfolio"
+description: >
+  Embedded systems • PCB design • FPGA • Signal Processing • Circuit Debugging
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+- jekyll-remote-theme
+
+show_downloads: false
