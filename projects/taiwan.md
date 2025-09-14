@@ -6,7 +6,7 @@
 Design a PCB test platform for ADC, DAC, clock generator, and temperature sensor validation.  
 This project was part of my research work in Taiwan, where I practiced the **full embedded systems workflow**: schematic capture, PCB layout, soldering, firmware development, and system debugging.
 
-![PCB Layout](../images/taiwan-pcb.png)
+![PCB Layout](../images/PCBDesign.png)
 
 ---
 
