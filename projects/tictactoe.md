@@ -32,7 +32,9 @@ The project demonstrates **embedded system integration**: input handling, game s
 
 ## Board Representation
 - Generic 3×3 board (initially empty).  
-- Filled dynamically with player X/O symbols.  
+- Filled dynamically with player X/O symbols.
+  
+![Board](../images/ttt/layout.png)
 
 ---
 
