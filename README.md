@@ -49,7 +49,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 ---
 
 ### [4. Snake Game (FPGA)](projects/snake.md)
-![Temp Photo](images/tempphoto.jpg)
+![](images/tempphoto.jpg)
 
 **Goal**: Implement a classic Snake game on FPGA hardware.  
 **Tech Stack**: VHDL, FPGA, VGA, NES Controller  
@@ -59,7 +59,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 ---
 
 ### [5. Tic Tac Toe](projects/tictactoe.md)
-![Temp Photo](images/tempphoto.jpg)
+![TicTacToe](images/ttt/tictactoe.png)
 
 **Goal**: Create a joystick-controlled Tic Tac Toe game with audio.  
 **Tech Stack**: C++, DAC, Joystick Input  
