@@ -17,7 +17,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 ## Projects
 
 ### [1. Taiwan Research Project: PCB Test Platform](projects/taiwan.md)
-![PCB + MCU](images/taiwanproj.png)
+![PCB + MCU](images/taiwan/taiwanproj.png)
 
 **Goal**: Design a PCB test platform for ADC, DAC, clock generator, and temperature sensor validation.  
 **Tech Stack**: Altium, C (Embedded), SPI/I²C, LPCXpresso51U68 MCU  
