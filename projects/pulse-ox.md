@@ -3,13 +3,11 @@
 # Pulse Oximeter
 **Team:** Alex Moy, Jacob Merrit  
 ---
-
 ## Overview  
 We designed and built a **pulse oximeter** capable of measuring blood oxygen saturation and heart rate through a finger.  
 The device uses an IR LED and photodetector to measure absorbed light, with amplification, filtering, and a **feedback loop** to stabilize readings across users with different skin tones, finger sizes, and conditions.  
 
 ---
-
 ## Design Approach  
 ### Sensor  
 - **IR LED** transmits through the finger.  
@@ -28,7 +26,6 @@ The device uses an IR LED and photodetector to measure absorbed light, with ampl
 - Prevents signal clipping while adapting to different users.  
 
 ---
-
 ## Final Circuit Design
 Physical Circuit Design
 
@@ -39,33 +36,28 @@ Circuit Diagram made with Spice
 ![Spice Diagram](images/pulse/diagram.png)
 
 ---
-
 ## Results  
 We tested the oximeter across multiple users and finger positions.  
 
 - **Light Pressure**
-- 
+  
 ![Circuit](images/pulse/results.png)
 
 - **Moderate Pressure**
-- 
+  
 ![Circuit](images/pulse/results3.png) 
  
 - **No Finger** (baseline noise level)
-- 
+  
 ![Circuit](images/pulse/results2.png) 
 
-
-
 ---
-
 ## Limitations & Future Improvements  
 - **Finger positioning sensitivity** → design a finger guide.  
 - **Ambient light interference** → dark enclosure for sensor.  
 - **Motion artifacts** → motion detection / signal averaging.  
 
 ---
-
 ## Ethical Considerations  
 - **Privacy & Security**: Patient health data must be protected (HIPAA).  
 - **Accuracy & Reliability**: Medical devices must undergo rigorous validation.  
@@ -73,7 +65,6 @@ We tested the oximeter across multiple users and finger positions.
 - **Professional Standards**: IEEE Code of Ethics and FDA guidelines followed.  
 
 ---
-
 ## Conclusion  
 Our prototype successfully measures oxygen saturation and heart rate with stabilization. While functional, improvements in **user ergonomics, noise rejection, and motion robustness** are needed for practical deployment. With refinement, this design shows promise as a reliable, low-cost medical device.  
 
