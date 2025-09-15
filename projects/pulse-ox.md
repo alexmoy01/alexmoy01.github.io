@@ -4,24 +4,24 @@
 **Team:** Alex Moy, Jacob Merrit  
 ---
 
-## 📌 Overview  
+## Overview  
 We designed and built a **pulse oximeter** capable of measuring blood oxygen saturation and heart rate through a finger.  
 The device uses an IR LED and photodetector to measure absorbed light, with amplification, filtering, and a **feedback loop** to stabilize readings across users with different skin tones, finger sizes, and conditions.  
 
 ---
 
-## ⚙️ Design Approach  
-### 🔹 Sensor  
+## Design Approach  
+### Sensor  
 - **IR LED** transmits through the finger.  
 - **Photodetector** receives transmitted light.  
 - Small signal (~10 mV) generated based on oxygen content.  
 
-### 🔹 Filtering & Amplification  
+### Filtering & Amplification  
 - Heartbeat frequency: **0.5–4 Hz (30–240 bpm)**.  
 - Implemented cascaded **bandpass filter** (high-pass + low-pass).  
 - Amplification: **Gain ≥ 100** to boost signal to ~1 V.  
 
-### 🔹 Feedback Loop (Stabilization)  
+### Feedback Loop (Stabilization)  
 - Problem: Small fingers → too much light, signal saturation.  
 - Solution: **Difference amplifier + NMOS MOSFET** automatically adjusts LED current.  
 - Reference voltage stabilized using a **4.7 V zener diode**.  
@@ -29,12 +29,12 @@ The device uses an IR LED and photodetector to measure absorbed light, with ampl
 
 ---
 
-## 📐 Final Circuit Design  
-- **Figure 1**: Zener Diode DC Bias  
-- **Figure 2**: Complete Circuit  
-- **Figure 3**: SPICE Simulation  
+## Final Circuit Design
+Physical Circuit Design
+![Circuit](images/pulse/circuit.png)
 
-(Add images here with `![](images/filename.jpg)`.)
+Circuit Diagram made with Spice
+![Spice Diagram](images/pulse/diagram.png)
 
 ---
 
