@@ -2,8 +2,6 @@
 
 # Tic Tac Toe
 **Team:** Jonathan Guzman & Alex Moy  
----
-
 ## Overview
 We implemented a **Tic Tac Toe game** using an STM32 microcontroller with UART-based player input and sound effects via an external audio chip.  
 The project demonstrates **embedded system integration**: input handling, game state management, and audio output.  
