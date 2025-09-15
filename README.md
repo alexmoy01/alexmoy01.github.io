@@ -49,7 +49,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 ---
 
 ### [4. Snake Game (FPGA)](projects/snake.md)
-![](images/tempphoto.jpg)
+![Snake](images/snake/snake.png)
 
 **Goal**: Implement a classic Snake game on FPGA hardware.  
 **Tech Stack**: VHDL, FPGA, VGA, NES Controller  
