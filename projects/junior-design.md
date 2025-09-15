@@ -12,7 +12,6 @@ The system integrates multiple components:
 - Obstacle detection circuit  
 - Battery monitoring  
 
-This project emphasized the full engineering design process: ideation, prototyping, iterative testing, refinement, and client-oriented communication.  
 ---
 ## Bot Specifications
 The bot consists of an Arduino Uno, multiple sensor circuits, and a custom acrylic chassis that holds all components together.  
