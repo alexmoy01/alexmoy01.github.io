@@ -36,7 +36,7 @@ We used an **L293D H-Bridge IC** to control two DC motors.
 ![Color Circuit](../images/junior/colorc.png)
 
 ---
-## 🛠️ Chassis
+## Chassis
 - Designed in **Onshape**  
 - Fabricated with **laser-cut acrylic** at Nolop  
 - Mounts for motors, OmniBall, and electronics  
