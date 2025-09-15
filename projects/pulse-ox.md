@@ -44,26 +44,29 @@ Circuit Diagram made with Spice
 We tested the oximeter across multiple users and finger positions.  
 
 - **Light Pressure**
+- 
 ![Circuit](images/pulse/results.png)
 
 - **Moderate Pressure**
+- 
 ![Circuit](images/pulse/results3.png) 
  
 - **No Finger** (baseline noise level)
+- 
 ![Circuit](images/pulse/results2.png) 
 
 
 
 ---
 
-## 🚧 Limitations & Future Improvements  
+## Limitations & Future Improvements  
 - **Finger positioning sensitivity** → design a finger guide.  
 - **Ambient light interference** → dark enclosure for sensor.  
 - **Motion artifacts** → motion detection / signal averaging.  
 
 ---
 
-## ⚖️ Ethical Considerations  
+## Ethical Considerations  
 - **Privacy & Security**: Patient health data must be protected (HIPAA).  
 - **Accuracy & Reliability**: Medical devices must undergo rigorous validation.  
 - **Accessibility & Affordability**: Designs should be inclusive and affordable.  
@@ -71,7 +74,7 @@ We tested the oximeter across multiple users and finger positions.
 
 ---
 
-## 📝 Conclusion  
+## Conclusion  
 Our prototype successfully measures oxygen saturation and heart rate with stabilization. While functional, improvements in **user ergonomics, noise rejection, and motion robustness** are needed for practical deployment. With refinement, this design shows promise as a reliable, low-cost medical device.  
 
 ---
