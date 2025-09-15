@@ -39,7 +39,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 ---
 
 ### [3. Pulse Oximeter](projects/pulse-ox.md)
-![Temp Photo](images/tempphoto.jpg)
+![Pulse](images/pulse/pulse.png)
 
 **Goal**: Develop a device to measure blood oxygen and heart rate.  
 **Tech Stack**: Python, Circuit Design  
