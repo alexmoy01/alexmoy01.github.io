@@ -24,6 +24,7 @@ We used an **L293D H-Bridge IC** to control two DC motors.
 - Enable pins for control  
 - Arduino inputs (3 per side → left & right motors)  
 - Forward, reverse, start, and stop functionality
+  
 ![H-Bridge](../images/junior/hbridge.png)
 
 ---
@@ -32,6 +33,7 @@ We used an **L293D H-Bridge IC** to control two DC motors.
 - Illumination: Blue & Red LEDs toggled by Arduino  
 - Output: Voltage variation read on **A2**  
 - Arduino pin 13 → Blue LED, pin 12 → Red LED
+  
 ![Color Circuit](../images/junior/colorc.png)
 
 ---
@@ -40,14 +42,16 @@ We used an **L293D H-Bridge IC** to control two DC motors.
 - Fabricated with **laser-cut acrylic** at Nolop  
 - Mounts for motors, OmniBall, and electronics  
 - Velcro mounting for flexible circuit placement  
-- Wire routing hole for a cleaner, professional look  
+- Wire routing hole for a cleaner, professional look
+  
 ![Chassis](../images/junior/chassic.png)
 
 ---
 ## 🔋 Battery Detection Circuit
 - Voltage divider network for scaling battery voltage  
 - LED indicators: Green → Yellow → Red  
-- Displays real-time battery status  
+- Displays real-time battery status
+  
 ![Battery Circuit](../images/junior/batteryc.png)
 
 ---
@@ -55,11 +59,13 @@ We used an **L293D H-Bridge IC** to control two DC motors.
 - IR emitter: **LVIR3333 LED**  
 - Detector: **SFH 203 FA photodiode (900nm)**  
 - Output amplified with resistor network  
-- Output → **A4** on Arduino  
+- Output → **A4** on Arduino
+  
 ![Obstacle Circuit](../images/junior/ObstacleC.png)
 
 ---
 ## 🖥️ Arduino Schematics
+
 ![Arduino](../images/junior/arduino.png)
 
 ---
