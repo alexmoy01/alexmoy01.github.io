@@ -29,11 +29,11 @@ The device uses an IR LED and photodetector to measure absorbed light, with ampl
 ## Final Circuit Design
 Physical Circuit Design
 
-![Circuit](images/pulse/circuit.png)
+![Circuit](../images/pulse/circuit.png)
 
 Circuit Diagram made with Spice
 
-![Spice Diagram](images/pulse/diagram.png)
+![Spice Diagram](../images/pulse/diagram.png)
 
 ---
 ## Results  
@@ -41,15 +41,15 @@ We tested the oximeter across multiple users and finger positions.
 
 - **Light Pressure**
   
-![Light](images/pulse/results.png)
+![Light](../images/pulse/results.png)
 
 - **Moderate Pressure**
   
-![Moderate](images/pulse/results3.png) 
+![Moderate](../images/pulse/results3.png) 
  
 - **No Finger** (baseline noise level)
   
-![None](images/pulse/results2.png) 
+![None](../images/pulse/results2.png) 
 
 ---
 ## Limitations & Future Improvements  
