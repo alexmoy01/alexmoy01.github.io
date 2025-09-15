@@ -14,7 +14,7 @@ The system integrates multiple components:
 
 This project emphasized the full engineering design process: ideation, prototyping, iterative testing, refinement, and client-oriented communication.  
 ---
-## ⚙️ Bot Specifications
+## Bot Specifications
 The bot consists of an Arduino Uno, multiple sensor circuits, and a custom acrylic chassis that holds all components together.  
 
 ---
@@ -47,7 +47,7 @@ We used an **L293D H-Bridge IC** to control two DC motors.
 ![Chassis](../images/junior/chassic.png)
 
 ---
-## 🔋 Battery Detection Circuit
+## Battery Detection Circuit
 - Voltage divider network for scaling battery voltage  
 - LED indicators: Green → Yellow → Red  
 - Displays real-time battery status
@@ -55,7 +55,7 @@ We used an **L293D H-Bridge IC** to control two DC motors.
 ![Battery Circuit](../images/junior/batteryc.png)
 
 ---
-## 🚧 Obstacle Detection Circuit
+## Obstacle Detection Circuit
 - IR emitter: **LVIR3333 LED**  
 - Detector: **SFH 203 FA photodiode (900nm)**  
 - Output amplified with resistor network  
@@ -64,20 +64,19 @@ We used an **L293D H-Bridge IC** to control two DC motors.
 ![Obstacle Circuit](../images/junior/ObstacleC.png)
 
 ---
-## 🖥️ Arduino Schematics
+## Arduino Schematics
 
 ![Arduino](../images/junior/arduino.png)
 
 ---
-## 👥 Customer Response
+## Customer Response
 We focused on:  
 - **Battery usability** → intuitive LED system  
 - **Clean design** → hidden wiring, neat chassis  
 - **Security** → server communication restricted to trusted IDs  
 
 ---
----
-## 💻 Code
+## Code
 - GitHub Repo: [Grape Expectations](https://github.com/naomi-arnold/grape_expectations)  
 
 ---
