@@ -41,15 +41,15 @@ We tested the oximeter across multiple users and finger positions.
 
 - **Light Pressure**
   
-![Circuit](images/pulse/results.png)
+![Light](images/pulse/results.png)
 
 - **Moderate Pressure**
   
-![Circuit](images/pulse/results3.png) 
+![Moderate](images/pulse/results3.png) 
  
 - **No Finger** (baseline noise level)
   
-![Circuit](images/pulse/results2.png) 
+![None](images/pulse/results2.png) 
 
 ---
 ## Limitations & Future Improvements  
