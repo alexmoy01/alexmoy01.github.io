@@ -2,7 +2,6 @@
 
 # Junior Design Project
 **Team**: Senri Nakamura, Naomi Arnold, Dani Price, Alex Moy  
----
 # Project Overview
 In this project, we designed and built a small robotic vehicle capable of autonomously navigating a test track by following colored lanes.  
 The system integrates multiple components:
