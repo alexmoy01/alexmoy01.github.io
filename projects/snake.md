@@ -29,7 +29,7 @@ The project combines **VHDL modules** for game logic, VGA output, NES controller
 - **Game Logic** – manages movement, collisions, apple respawn, scoring.  
 - **ROM Module** – stores start screen graphics.  
 
-*Insert Block Diagram Here*  
+![Block](../images/snake/block.png) 
 
 ---
 
@@ -41,7 +41,7 @@ The project combines **VHDL modules** for game logic, VGA output, NES controller
 
 ---
 
-## 🖥VGA Module  
+## VGA Module  
 - Outputs 640×480 pixels with HSYNC/VSYNC signals.  
 - Updates snake & apple positions in sync with frame clock.  
 - Visible vs non-visible area controlled via `valid` flag.  
@@ -55,7 +55,7 @@ The project combines **VHDL modules** for game logic, VGA output, NES controller
 - Apple respawn is pseudo-random (incrementing x/y with resets).  
 - Collision detection checks head vs boundaries + food overlap.  
 
-*Insert simple logic diagram here.*  
+![Logic](../images/snake/gamelogic.png) 
 
 ---
 
