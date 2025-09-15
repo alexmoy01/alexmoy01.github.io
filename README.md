@@ -28,7 +28,7 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 ---
 
 ### [2. Junior Design Project: Autonomous Bot](projects/junior-design.md)
-![Temp Photo](images/tempphoto.jpg)
+![Bot](images/junior/car.jpg)
 
 **Goal**: Build an Arduino-based autonomous lane-following robot.  
 **Tech Stack**: Arduino, Circuit Design, Onshape, L293D H-Bridge  
