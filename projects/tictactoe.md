@@ -24,7 +24,9 @@ The project demonstrates **embedded system integration**: input handling, game s
 3. **Data Structures** – 2D array stores game state.  
 4. **Board Updates** – Print updated board after each move.  
 5. **Winner Check** – Evaluate rows, columns, diagonals after every turn.  
-6. **Game End** – Announce winner or draw, reset for new game.  
+6. **Game End** – Announce winner or draw, reset for new game.  '
+   
+![Game Logic](../images/ttt/glogic.png)
 
 ---
 
@@ -46,7 +48,8 @@ The project demonstrates **embedded system integration**: input handling, game s
   - Volume  
 - Custom delay functions used to time sequences and create effects.  
 
-*Diagram: Audio Chip + STM32 I²C Connection*  
+![Diagram](../images/ttt/audiodiagram.png)
+
 
 ---
 
