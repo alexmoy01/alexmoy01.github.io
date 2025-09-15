@@ -1,6 +1,6 @@
 # Electrical Engineering Portfolio
 
-Hi there! I'm **Alex Moy**, an Electrical Engineering student at Tufts University (Class of 2026).  
+Hey there! My name is **Alex Moy**, an Electrical Engineering student at Tufts University (Class of 2026).  
 I’m passionate about **embedded systems, PCB design, circuit debugging, and signal processing**.  
 I enjoy building end-to-end hardware/software solutions — from schematics and PCB layout to firmware and system testing.
 
@@ -9,8 +9,8 @@ I enjoy building end-to-end hardware/software solutions — from schematics and 
 ## Skills & Technologies
 
 - **Languages**: C, C++, Python, VHDL, Verilog, ARM Assembly, Java, MATLAB, HTML  
-- **Hardware & EE**: PCB Design (Altium, soldering/reflow), Circuit Debugging, Signal Processing, Embedded Systems (ARM Cortex-M, Arduino, FPGA)  
-- **Tools**: VS Code, Git/GitHub, MCUXpresso IDE, Keil uVision, Radiant, GHDL, DraftSight, AutoCAD, Onshape  
+- **Hardware & EE**: PCB Design, Soldering, Circuit Debugging, Signal Processing, Embedded Systems (ARM Cortex-M, Arduino, FPGA)  
+- **Tools**: VS Code, Git/GitHub, MCUXpresso IDE, Keil uVision, Radiant, GHDL, DraftSight, AutoCAD, Onshape, Altium Desiner  
 
 ---
 
