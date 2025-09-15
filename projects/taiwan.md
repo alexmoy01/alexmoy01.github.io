@@ -1,6 +1,7 @@
 **[← Back to Home](../README.md)**
 
 # Taiwan Research Project: PCB Test Platform
+**Team**: Alex Moy, Patrick K. Johnson  
 
 ## Project Overview
 The research project I was apart of was to design and produc a PCB to be used with an MCU for the purpose of testing onboard components. 
