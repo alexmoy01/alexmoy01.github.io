@@ -83,8 +83,7 @@ Acting as the Device Under Test, our PCB can be placed in a wide range of condit
 - **Week 8+**: Debugging hardware/software integration.  
 
 ---
-## Key Learnings
-- End-to-end workflow from schematic to tested hardware  
-- Debugging soldering and PCB-level issues in real hardware  
-- Writing and testing embedded drivers for SPI and I²C  
-- Integrating multiple ICs on a single test platform
+## Next Steps
+- Taking and saving measurements from the oscilloscope to the laptop
+- Adding other ICs such as the gyroscope, accelerometer, actuator, etc
+- Prospective linked projects: RF Signal Project 
