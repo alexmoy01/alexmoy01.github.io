@@ -2,7 +2,6 @@
 
 # Pulse Oximeter
 **Team:** Alex Moy, Jacob Merrit  
----
 ## Overview  
 We designed and built a **pulse oximeter** capable of measuring blood oxygen saturation and heart rate through a finger.  
 The device uses an IR LED and photodetector to measure absorbed light, with amplification, filtering, and a **feedback loop** to stabilize readings across users with different skin tones, finger sizes, and conditions.  
