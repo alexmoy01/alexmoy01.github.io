@@ -52,6 +52,8 @@ The project demonstrates **embedded system integration**: input handling, game s
 
 ![Diagram](../images/ttt/audiodiagram.png)
 
+---
+## Game Demo
 
 ---
 
