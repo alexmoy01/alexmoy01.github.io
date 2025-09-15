@@ -8,7 +8,7 @@ The overall purpose is that this board makes the programming, testing, and measu
 Acting as the Device Under Test, our PCB can be placed in a wide range of conditions and its various components (ADC, DAC, Temperature Sensor, and Clock Generator) can be measured externally through an attached microcontroller that is programmed through a computer. During this project, we were able to practice multiple skills and softwares, like soldering, circuit design, PCB design, and C coding.
 
 
-![PCB Layout](../images/PCBDesign.png)
+![PCB Layout](../images/taiwan/PCBDesign.png)
 
 ---
 
@@ -37,27 +37,39 @@ Acting as the Device Under Test, our PCB can be placed in a wide range of condit
 - Chosen over LPC11U35 because dev board + MCUXpresso SDK support made interfacing/coding easier.  
 
 ### LDO Regulator – AP7363-SP-13
+![LDO](../images/taiwan/LDO.png)
+
 - Adjustable via resistor divider (1kΩ + 224.4Ω → 3.3 V).  
 - Drives the entire 3.3 V plane.  
 
 ### Power Switch – AP2171DWG-7
+![PSWITCH](../images/taiwan/PSWITCH.png)
+
 - USB hot-swap power switch, 1.5 A, slew-rate control.  
 
 ### DAC – MCP4822-E/SN
+![DAC](../images/taiwan/DAC.png)
+
 - Dual-channel, 12-bit SPI DAC.  
 - LDAC tied low for auto-update.  
 - Added 0.1 µF decoupling + 2.2 µF output caps for filtering.  
 
 ### ADC – MCP3424-E/SL
+![ADC](../images/taiwan/ADC.png)
+
 - 18-bit I²C ADC.  
 - Requires pull-ups on SDA/SCL.  
 - Supports multiple I²C addresses for flexibility.  
 
 ### Clock Generator – Si5351A
+![CLOCK](../images/taiwan/CLOCK.png)
+
 - Needs 25 MHz crystal oscillator input.  
 - I²C programmable, up to 200 MHz outputs.  
 
 ### Temperature Sensor – MCP9700AT-E/TT
+![TEMP](../images/taiwan/TEMP.png)
+
 - Analog output proportional to temperature.  
 - Requires decoupling capacitor for noise suppression.  
 
